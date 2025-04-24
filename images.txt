@@ -8,3 +8,4 @@ xhofe/alist:latest
 billygoo/tomcat8-jdk8
 mysql:5.7
 redis:6.0.8
+java:8
