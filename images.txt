@@ -9,4 +9,4 @@ xhofe/alist:latest
 mysql:8.0.20
 redis:6.2.7
 Nacos:2.1.0
-
+bitnami/mongodb:6.0.2
